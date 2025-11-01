@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica;
+    background-color: lightgray;
+}
+
+a{
+    font-style: italic;
+}
+
+.title{
+    color: rgb(0, 18, 216)
+}
+
+.subtitle{
+    text-decoration: underline;
+}
