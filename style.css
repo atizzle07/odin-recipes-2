@@ -3,14 +3,20 @@ body {
     background-color: lightgray;
 }
 
-a{
+a {
     font-style: italic;
 }
 
 .title{
-    color: rgb(0, 18, 216)
+    color: rgb(0, 18, 216);
 }
 
 .subtitle{
     text-decoration: underline;
+}
+
+.recipe-img{
+    aspect-ratio: 16/10;
+    width: 600px;
+    margin: auto;
 }
